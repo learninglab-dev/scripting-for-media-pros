@@ -1,0 +1,25 @@
+{
+  "name": "scripting-for-media-pros",
+  "version": "1.0.0",
+  "bin": {
+    "cli": "./mo-cli.js"
+  },
+  "description": "mike-initial-script",
+  "main": "mo-first-script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/learninglab-dev/scripting-for-media-pros.git"
+  },
+  "author": "Mike",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/learninglab-dev/scripting-for-media-pros/issues"
+  },
+  "homepage": "https://github.com/learninglab-dev/scripting-for-media-pros#readme",
+  "dependencies": {
+    "moment": "^2.27.0"
+  }
+}
