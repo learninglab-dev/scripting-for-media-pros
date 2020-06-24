@@ -3,9 +3,10 @@
   "version": "1.0.0",
   "bin": {
     "cpc": "./cc-cli.js"
+    "cli": "./mo-cli.js"
   },
   "description": "basic scripting tools",
-  "main": "cc-first-script.js",
+  "main": "mo-first-script.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,7 +14,7 @@
     "type": "git",
     "url": "git+https://github.com/learninglab-dev/scripting-for-media-pros.git"
   },
-  "author": "CC",
+  "author": "LLMediaTeam",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/learninglab-dev/scripting-for-media-pros/issues"
