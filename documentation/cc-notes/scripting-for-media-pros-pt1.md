@@ -2,7 +2,7 @@
 
 The goal of this tutorial series is to orient any media professional looking to streamline, customize, and automate their workflows.
 
-You can find the video walkthroughs of this whole process [here.](https://www.youtube.com/embed/VnBtgXezr-s) 
+You can find the first of the video walkthroughs [here.](https://www.youtube.com/embed/VnBtgXezr-s) 
 
 ## Why bother scripting?
 
