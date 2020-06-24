@@ -2,7 +2,7 @@
 
 The goal of this tutorial series is to orient any media professional looking to streamline, customize, and automate their workflows.
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/VnBtgXezr-s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+You can find the video walkthroughs of this whole process [here.](https://www.youtube.com/embed/VnBtgXezr-s) 
 
 ## Why bother scripting?
 
