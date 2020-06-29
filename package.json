@@ -2,7 +2,8 @@
   "name": "scripting-for-media-pros",
   "version": "1.0.0",
   "bin": {
-    "cli": "./mo-cli.js"
+    "cli": "./mo-cli.js",
+    "sfmpmk": "./mk-cli.js"
   },
   "description": "mike-initial-script",
   "main": "mo-first-script.js",
