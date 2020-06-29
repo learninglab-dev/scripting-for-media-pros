@@ -2,10 +2,11 @@
   "name": "scripting-for-media-pros",
   "version": "1.0.0",
   "bin": {
-    "cli": "./mo-cli.js",
-    "sfmpmk": "./mk-cli.js"
+    "sfmpmk": "./mk-cli.js",
+    "cpc": "./cc-cli.js",
+    "cli": "./mo-cli.js"
   },
-  "description": "mike-initial-script",
+  "description": "basic scripting tools",
   "main": "mo-first-script.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,7 +15,7 @@
     "type": "git",
     "url": "git+https://github.com/learninglab-dev/scripting-for-media-pros.git"
   },
-  "author": "Mike",
+  "author": "LLMediaTeam",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/learninglab-dev/scripting-for-media-pros/issues"
