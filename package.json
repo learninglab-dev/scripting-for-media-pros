@@ -2,6 +2,7 @@
   "name": "scripting-for-media-pros",
   "version": "1.0.0",
   "bin": {
+    "sfmpmk": "./mk-cli.js",
     "cc-run": "./cc-cli.js",
     "cli": "./mo-cli.js"
   },
