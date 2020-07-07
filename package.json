@@ -2,7 +2,7 @@
   "name": "scripting-for-media-pros",
   "version": "1.0.0",
   "bin": {
-    "cpc": "./cc-cli.js"
+    "cc-run": "./cc-cli.js",
     "cli": "./mo-cli.js"
   },
   "description": "basic scripting tools",
