@@ -4,7 +4,8 @@
   "bin": {
     "sfmpmk": "./mk-cli.js",
     "cc-run": "./cc-cli.js",
-    "cli": "./mo-cli.js"
+    "cli": "./mo-cli.js",
+    "rename": "./rename.js"
   },
   "description": "basic scripting tools",
   "main": "mo-first-script.js",
@@ -22,6 +23,12 @@
   },
   "homepage": "https://github.com/learninglab-dev/scripting-for-media-pros#readme",
   "dependencies": {
-    "moment": "^2.27.0"
+    "ffmpeg": "0.0.4",
+    "ffprobe": "^1.1.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "fs": "0.0.1-security",
+    "junk": "^3.1.0",
+    "moment": "^2.27.0",
+    "path": "^0.12.7"
   }
 }
