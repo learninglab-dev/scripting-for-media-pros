@@ -16,7 +16,7 @@ var clips = allFiles.filter(junk.not);
 // Writes an empty .txt file to fill later
 fs.writeFileSync(`${footagePath}/${folderName}.txt`, "");
 // Isolates the second clip in the folder to later check for rename
-var firstClip = clips[1]
+var firstClip = clips[0]
 // Isolates the extension of the second clip in the folder, again to check for rename
 var firstClipExt = path.extname(firstClip)
 
