@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/learninglab-dev/scripting-for-media-pros#readme",
   "dependencies": {
+    "dotenv": "^8.2.0",
     "ffmpeg": "0.0.4",
     "ffprobe": "^1.1.0",
     "fluent-ffmpeg": "^2.1.2",
